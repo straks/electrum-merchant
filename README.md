@@ -1,2 +1,3 @@
-# electrum-merchant
-Add-on to Electrum-STAK wallet, which allows Electrum to function as a payment service.
+### Moved to STRAKS GitLab repository:
+
+https://lab.straks.co/straks/electrum-merchant
